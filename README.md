@@ -1,5 +1,9 @@
 ### Hi there, I'm Attri Ghosal 👋
 
+- My LinkedIn Profile - [attrighosal](https://www.linkedin.com/in/attri-ghosal-666a39146/)
+- My Leetcode Profile - [attrighosal](https://leetcode.com/attrighosal/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attrighosal)](https://github.com/attrighosal/github-readme-stats)
 <!--
 **attrighosal/attrighosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
